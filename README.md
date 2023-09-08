@@ -32,6 +32,9 @@ Comando para commitar
 ```
 git commit -m"mensagem do que foi alterado, algo bem descretiva"
 ```
-
+Comando para empurrar a alteração para o Git
+```
+git push
+```
 
 
