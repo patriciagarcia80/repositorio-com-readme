@@ -28,6 +28,10 @@ Comando para enviar todos os arquivos modificados
 ```
 git add.
 ```
+Comando para commitar 
+```
+git commit -m"mensagem do que foi alterado, algo bem descretiva"
+```
 
 
 
